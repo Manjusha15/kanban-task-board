@@ -42,9 +42,10 @@ kanban-task-board/
 
 ---
 
-## 🚀 Live Demo
 
-(Deploy link will be added here)
+## 🚀 Live Demo
+🔗 https://manjusha15.github.io/kanban-task-board/
+
 
 ---
 
